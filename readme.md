@@ -2,6 +2,8 @@
 
 Because the world needs more event interfaces
 
+## example
+
 ```js
 var Store = require('emitterer')
 
