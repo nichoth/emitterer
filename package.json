@@ -1,0 +1,29 @@
+{
+  "name": "emitterer",
+  "version": "0.0.0",
+  "description": "Yet another event emitter / state machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nichoth/emitterer.git"
+  },
+  "keywords": [
+    "event",
+    "observe",
+    "state",
+    "machine",
+    "store"
+  ],
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichoth/emitterer/issues"
+  },
+  "homepage": "https://github.com/nichoth/emitterer#readme",
+  "dependencies": {
+    "xtend": "^4.0.1"
+  }
+}
